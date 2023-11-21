@@ -1,0 +1,11 @@
+provider "aws" {
+  region     = "us-east-1"
+  access_key = "AKIAZZTKW5IWFOREGB5G"
+  secret_key = "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"
+}
+
+provider "aws" {
+  region     = "us-east-1"
+  access_key = "AKIAZZTKW5IWFOREGB5G"
+  secret_key = "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"
+}
